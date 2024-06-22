@@ -21,7 +21,7 @@ N/A
 ## Usage
 My portfolio is used for companies to view information about me to better understand my abilities as a computer programer. To know how and where to contact me from, and to help them determine whether I am a good candidate for the job.
 ## License
-N/A
+https://8egandara.github.io/nexafolio/
 
 ## Images
 ![MYSITE](./assets/images/Screenshot 2024-06-22 162919.png)
