@@ -23,8 +23,9 @@ My portfolio is used for companies to view information about me to better unders
 ## License
 N/A
 
-![MYSITE](assets/images/Screenshot 2024-06-22 162919.png)
+## Images
+![MYSITE](./assets/images/Screenshot 2024-06-22 162919.png)
 
-![MYWORK](assets/images/Screenshot 2024-06-22 162950.png)
+![MYWORK](./assets/images/Screenshot 2024-06-22 162950.png)
 
-![CONTACT](assets/images/Screenshot 2024-06-22 163017.png)
+![CONTACT](./assets/images/Screenshot 2024-06-22 163017.png)
